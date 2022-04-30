@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaae55e5d4f1bef04eb9fb3a35dcbfcd1e6e39b1b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Crypto Dog",
+  "SYMBOL": "BCD",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 15900000000000000,
+  "DISPLAY_COST": 25.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/babycryptodog",
+  "SHOW_BACKGROUND": true
+}
